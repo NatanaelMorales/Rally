@@ -1,0 +1,1 @@
+web: gunicorn DevRally.wsgi --log-file -
